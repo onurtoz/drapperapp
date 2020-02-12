@@ -1,0 +1,14 @@
+C:\Users\otoz\source\repos\drapperapp\drapapp\bin\Debug\netcoreapp2.1\drapapp.deps.json
+C:\Users\otoz\source\repos\drapperapp\drapapp\bin\Debug\netcoreapp2.1\drapapp.runtimeconfig.json
+C:\Users\otoz\source\repos\drapperapp\drapapp\bin\Debug\netcoreapp2.1\drapapp.runtimeconfig.dev.json
+C:\Users\otoz\source\repos\drapperapp\drapapp\bin\Debug\netcoreapp2.1\drapapp.dll
+C:\Users\otoz\source\repos\drapperapp\drapapp\obj\Debug\netcoreapp2.1\drapapp.csprojAssemblyReference.cache
+C:\Users\otoz\source\repos\drapperapp\drapapp\obj\Debug\netcoreapp2.1\drapapp.csproj.CoreCompileInputs.cache
+C:\Users\otoz\source\repos\drapperapp\drapapp\obj\Debug\netcoreapp2.1\drapapp.RazorAssemblyInfo.cache
+C:\Users\otoz\source\repos\drapperapp\drapapp\obj\Debug\netcoreapp2.1\drapapp.RazorAssemblyInfo.cs
+C:\Users\otoz\source\repos\drapperapp\drapapp\obj\Debug\netcoreapp2.1\drapapp.AssemblyInfoInputs.cache
+C:\Users\otoz\source\repos\drapperapp\drapapp\obj\Debug\netcoreapp2.1\drapapp.AssemblyInfo.cs
+C:\Users\otoz\source\repos\drapperapp\drapapp\obj\Debug\netcoreapp2.1\drapapp.RazorTargetAssemblyInfo.cache
+C:\Users\otoz\source\repos\drapperapp\drapapp\bin\Debug\netcoreapp2.1\drapapp.pdb
+C:\Users\otoz\source\repos\drapperapp\drapapp\obj\Debug\netcoreapp2.1\drapapp.dll
+C:\Users\otoz\source\repos\drapperapp\drapapp\obj\Debug\netcoreapp2.1\drapapp.pdb
